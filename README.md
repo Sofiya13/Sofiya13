@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Website.<br>👯 I’m looking to collaborate on projects to gain experience.<br>🤝 I’m looking for help with Backend Services.<br>🌱 I’m currently learning React.<br>💬 Ask me about anything web related.<br>
+🔭 I’m currently working on Full Stack Website.<br>👯 I’m looking to collaborate on projects to gain experience.<br>🤝 I’m looking for help with Backend Services.<br>🌱 I’m currently learning PHP and Laravel.<br>💬 Ask me about anything web related.<br>
 
 
 ## 🌐 Socials:
